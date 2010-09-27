@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: Loquacious-Snake
+Version: 0.1dev
+Summary: Loquacious interface to write end-to-end tests
+Home-page: UNKNOWN
+Author: Nicholas Lemay
+Author-email: nlemay@pyxis-tech.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: testing tests BDD TDD loquacious fluent
+Platform: UNKNOWN
